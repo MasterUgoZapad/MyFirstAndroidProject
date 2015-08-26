@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="horizontal"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <fragment
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:name="com.example.biokm_000.scino_library.Fragment5"
+        android:id="@+id/fragment10"
+        android:layout_gravity="center_horizontal"
+        tools:layout="@layout/fragment5"
+        android:layout_weight="1"/>
+
+    <fragment
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:name="com.example.biokm_000.scino_library.Fragment4"
+        android:id="@+id/fragment9"
+        android:layout_gravity="center_horizontal"
+        tools:layout="@layout/fragment4"
+        android:layout_weight="1"/>
+</LinearLayout>

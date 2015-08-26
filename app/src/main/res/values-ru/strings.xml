@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">SCINO_Библиотека</string>
+    <string name="action_settings">Настройки</string>
+    <string name="AddBookButtonText">+ Книга</string>
+    <string name="AddGroupButtonText">GУправление группами</string>
+    <string name="CheckBoxUnreadText">Непрочитнные</string>
+    <string name="CheckBoxReadText">Прочитанные</string>
+    <string name="TextViewName">Название:</string>
+    <string name="TextViewAutor">Автор:</string>
+    <string name="TextViewGenre">Жанр:</string>
+    <string name="ButtonApplyName">Подтвердить</string>
+    <string name="SerchTextViev">Искать в...</string>
+    <string name="SearchButtonText">Фильтры</string>
+    <string name="ButtonAddGroupName">Добавить</string>
+    <string name="ButtonDeleteGroupName">Удалить</string>
+    <string name="ButtonRenameGroupName">Изменить</string>
+    <string name="CancelButtonName">Отменить</string>
+    <string name="ButtonDeleteName">Удалить</string>
+    <string name="SpinnerAllItem">Все</string>
+    <string name="TextSort">Отсортировать по...</string>
+    <string name="RadioDefault">По умолчанию</string>
+    <string name="RadioName">По названию</string>
+    <string name="RadioAutor">По автору</string>
+    <string name="RadioJenre">По жанру</string>
+    <string name="TextSortDirection">Нарпавление:</string>
+    <string name="RadioDirectionUp">Сверху вниз</string>
+    <string name="RadioDirectionDown">Снизу вверх</string>
+    <string name="SearchButton2Text">Поиск</string>
+    <string name="BackButton">Назад</string>
+    <string name="WarningNotEnoughData">недостаточно данных!</string>
+    <string name="WarningExistence">Такая книга уже есть!</string>
+    <string name="WarningGroupExistence">Такая группа уже есть!</string>
+    <string name="WarningGroupUnExistence">Чтобы удалить что-нибудь ненужное, нужно добавть что-нибудь ненужное!</string>
+    <string name="MenuBook">Книги+</string>
+    <string name="MenuGroup">Группы+</string>
+    <string name="MenuSearch">Поиск</string>
+    <string name="MenuNullSearch">X Поиск</string>
+    <string-array name="SearchItemsArray">
+        <item>во всем</item>
+        <item>в названиях</item>
+        <item>в авторах</item>
+        <item>в жанрах</item>
+    </string-array>
+</resources>

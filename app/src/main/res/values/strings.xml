@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">SCINO_Library</string>
+    <string name="action_settings">Settings</string>
+    <string name="AddBookButtonText">+ Book</string>
+    <string name="AddGroupButtonText">Group management</string>
+    <string name="CheckBoxUnreadText">Unread</string>
+    <string name="CheckBoxReadText">Read</string>
+    <string name="TextViewName">Name:</string>
+    <string name="TextViewAutor">Autor:</string>
+    <string name="TextViewGenre">Genre:</string>
+    <string name="ButtonApplyName">Apply</string>
+    <string name="SerchTextViev">Search in...</string>
+    <string name="SearchButtonText">Filters</string>
+    <string name="ButtonAddGroupName">Add</string>
+    <string name="ButtonDeleteGroupName">Delete</string>
+    <string name="ButtonRenameGroupName">Rename</string>
+    <string name="CancelButtonName">Cancel</string>
+    <string name="ButtonDeleteName">Delete</string>
+    <string name="SpinnerAllItem">All</string>
+    <string name="TextSort">Sort by...</string>
+    <string name="RadioDefault">By default</string>
+    <string name="RadioName">By name</string>
+    <string name="RadioAutor">By autor</string>
+    <string name="RadioJenre">By jenre</string>
+    <string name="TextSortDirection">Direction:</string>
+    <string name="RadioDirectionUp">From up to down</string>
+    <string name="RadioDirectionDown">From down to up</string>
+    <string name="SearchButton2Text">Search</string>
+    <string name="BackButton">Back</string>
+    <string name="WarningNotEnoughData">Not enough data!</string>
+    <string name="WarningExistence">Book is already in database!</string>
+    <string name="WarningGroupExistence">Group is already in database!</string>
+    <string name="WarningGroupUnExistence">Nothing to delete!</string>
+    <string name="MenuBook">Book+</string>
+    <string name="MenuGroup">Group+</string>
+    <string name="MenuSearch">Search</string>
+    <string name="MenuNullSearch">X Search</string>
+    <string-array name="SearchItemsArray">
+        <item>All</item>
+        <item>Name</item>
+        <item>Autor</item>
+        <item>Jenre</item>
+    </string-array>
+</resources>
